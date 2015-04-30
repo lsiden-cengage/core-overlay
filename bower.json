@@ -1,5 +1,7 @@
 {
   "name": "core-overlay",
+  "version": "1.0.0",
+  "main": ".",
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#master",
