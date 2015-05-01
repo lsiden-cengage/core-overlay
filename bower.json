@@ -1,8 +1,7 @@
 {
-  "name": "core-overlay",
-  "version": "1.0.0",
-  "main": ".",
-  "private": true,
+  "name": "cengage-core-overlay",
+  "version": "1.0.1",
+  "main": "./core-overlay.html",
   "dependencies": {
     "polymer": "Polymer/polymer#master",
     "core-transition": "Polymer/core-transition#master",
